@@ -92,7 +92,7 @@
     },
     {
         "type": "file",
-        "url": "https://api.nuget.org/v3-flatcontainer/v.cecil/0.11.3/mono.cecil.0.11.3.nupkg",
+        "url": "https://api.nuget.org/v3-flatcontainer/mono.cecil/0.11.3/mono.cecil.0.11.3.nupkg",
         "sha512": "4a555e9464c142912d5bc24650136b41d5c37bd784b87ad34c2b7f4c8bfa1a2670c239916f3dc9bbe1138542664bf3003144fbebd3becad2ab7771d41564c0ff",
         "dest": "nuget-sources",
         "dest-filename": "mono.cecil.0.11.3.nupkg"
